@@ -1,6 +1,6 @@
 # Flappy Bird Game 🐦
 
-A web-based Flappy Bird clone built using **Next.js** and TypeScript — where you control a bird and try to fly through pipes without crashing. Inspired by the classic mobile game *Flappy Bird*, this project is great for learning **React, game logic, animation, and collision handling**. :contentReference[oaicite:0]{index=0}
+A web-based Flappy Bird clone built using **Next.js** and TypeScript — where you control a bird and try to fly through pipes without crashing. Inspired by the classic mobile game *Flappy Bird*, this project is great for learning **React, game logic, animation, and collision handling**.
 
 ---
 
