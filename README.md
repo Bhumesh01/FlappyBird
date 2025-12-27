@@ -27,6 +27,6 @@ A web-based Flappy Bird clone built using **Next.js** and TypeScript — where y
 | **Next.js** | App framework |
 | **TypeScript** | Type safety |
 | **Tailwind CSS** | UI styling |
-| **React Hooks** | Game state & animation |
+| **React** | Game state & animation |
 
 ---
